@@ -10,7 +10,8 @@
   "1D:17:B0:D8:0A:10:80": {
     "title": "Akatsuki",
     "img": "/assets/akatsuki.png",
-    "audio": "/audio/akatsuki.mp3",
+    "audio": "/audio/yugioh-00.mp3",
+    "video": "/video/sharingan.mp4"
   },
   "04:10:EE:1E:19:61:80": {
     "title": "Dark Magician",
