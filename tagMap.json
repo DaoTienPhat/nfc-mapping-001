@@ -21,9 +21,7 @@
   },
   "DEFAULT": {
     "title": "Default Card Asset",
-    "img": "/assets/blue-eye.png",
-    "audio": "/audio/yugioh-001.mp3",
-    "video": "/video/blue-eye.mp4"
+    "img": "/assets/blue-eye.png"
   },
   "HOMEPAGE": {
     "title": "Home Page Asset",
