@@ -25,8 +25,8 @@
     "audio": "/audio/yugioh-001.mp3",
     "video": "/video/dark-magician.webm"
   },
-  "04:10:EE:1E:19:61:80": {
-    "title": "Dark Magician",
+  "BLUE:EYE": {
+    "title": "Blue Eye",
     "img": "/assets/blue-eye.png",
     "audio": "/audio/yugioh-001.mp3",
     "video": "/video/blue-eye.webm"
