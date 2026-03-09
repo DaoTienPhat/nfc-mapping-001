@@ -37,6 +37,11 @@
     "audio": "/audio/pain-theme.mp3",
     "video": "/video/sharingan.webm"
   },
+  "DD:72:F2:04": {
+    "title": "Nhat's Card",
+    "img": "/assets/nhat.png",
+    "audio": "/audio/nhat-theme.mp3"
+  },
   "DEFAULT": {
     "title": "Default Card Asset",
     "img": "/assets/icon-512.png"
